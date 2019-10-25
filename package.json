@@ -1,0 +1,15 @@
+{
+  "name": "jp_profile",
+  "version": "1.0.0",
+  "description": "SASS and JS personal profile page for Jason Barron",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass sass/main.scss css/styles.css  -w"
+  },
+  "author": "Jason Barron",
+  "license": "ISC",
+  "dependencies": {
+    "aos": "^3.0.0-beta.6",
+    "node-sass": "^4.13.0"
+  }
+}

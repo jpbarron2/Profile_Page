@@ -1,0 +1,11 @@
+.header {
+  background-color: $color-grey-dark-3;
+  height: 25vh;
+  width: 100%;
+  text-align: right;
+
+  &__name {
+    font-size: 3rem;
+    color: $color-primary-0;
+  }
+}
